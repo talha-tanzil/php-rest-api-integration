@@ -1,0 +1,1 @@
+Understood CURL API integration, creation and usage using PHP programming language and used minimal css from picocss.com site.
